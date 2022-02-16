@@ -1,0 +1,23 @@
+body {
+  background-color : #F9F9F9;
+}
+
+
+hr {
+  width: 3%;
+  border: 6px dotted;
+  border-style: dotted none none;
+  color: lightgrey
+}
+
+h1{
+  color: #7C99AC
+}
+
+h3{
+  color: #7C99AC
+}
+
+#imgcircular{
+  border-radius: 50%;
+}
